@@ -11,10 +11,14 @@
             "id": "e091cf4fff141bcb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -179,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "ea8272247f75ee52",
+  "active": "e091cf4fff141bcb",
   "lastOpenFiles": [
+    "README.md",
     "temp/My Understanding.md",
     "temp",
     "SiteResearch/README.md",
