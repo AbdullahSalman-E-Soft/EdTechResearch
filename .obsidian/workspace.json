@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "161874c43fb086b8",
+        "id": "e5d61d1651be0fc0",
         "type": "tabs",
         "children": [
           {
-            "id": "e091cf4fff141bcb",
+            "id": "eb89449c34a736a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -179,12 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "ea8272247f75ee52",
+  "active": "eb89449c34a736a5",
   "lastOpenFiles": [
-    "temp/My Understanding.md",
-    "temp",
     "SiteResearch/README.md",
+    "README.md",
+    "temp/My Understanding.md",
     "SiteResearch/Site Research.md",
+    "temp",
     "My Understanding.md",
     "SiteResearch/static/Tutor2U-1.png",
     "SiteResearch/static/Thinka-5.png",
