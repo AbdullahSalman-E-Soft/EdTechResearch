@@ -181,7 +181,7 @@ Return no other text. No preamble. No markdown fences.
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash",
     temperature=0.2,
-    api_key="AIzaSyBmlxZCkFRdPdbHYqQk3NEKCFZzJvEaXOI"
+    api_key=""
 )
 
 def analyze_writing(student_writing: str) -> str:
